@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "app",
+    "pat-parse",
+    "pat-parse-macro"
+]

@@ -1,0 +1,13 @@
+[package]
+name = "pat-parse"
+version = "0.1.0"
+authors = ["Felix Kohlgrüber <felix.kohlgrueber@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+pat-parse-macro = { path = "../pat-parse-macro" }
+lazy_static = "1.0"
+regex = "1.0"
+
+[lib]
+doctest = false
