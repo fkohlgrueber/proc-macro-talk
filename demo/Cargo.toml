@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "app",
+    "hello-world-macros"
+]
